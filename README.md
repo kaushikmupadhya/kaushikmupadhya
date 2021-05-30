@@ -3,7 +3,7 @@
   <code>
     <a href="https://www.linkedin.com/in/kaushik-manjunatha/" title="LinkedIn Profile"><img width="22" src="./LinkedIn.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/kaushik_upadhya" title="Instagram Profile"><img width="22" src="./Instagram.svg"> Instagram</a></code>
- <code><a href="https://www.xing.com/profile/Kaushik_Manjunatha/" title="Xing Profile"><img width="22" src="./Xing.svg"> Xing</a></code>
+ <code><a href="https://www.xing.com/profile/Kaushik_Manjunatha/" title="Xing Profile"><img width="22" src="./XingIcon.png"> Xing</a></code>
 </h5>
 <br>
 <p align="center">
