@@ -1,9 +1,9 @@
 <h3 align="center">Hello there, I'm Kaushik 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/kaushik-manjunatha/" title="LinkedIn Profile"><img width="22" src="https://github.com/kaushikmupadhya/kaushikmupadhya/blob/master/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/kaushik_upadhya" title="Instagram Profile"><img width="22" src="https://github.com/kaushikmupadhya/kaushikmupadhya/blob/master/Instagram.svg"> Instagram</a></code>
- <code><a href="https://www.xing.com/profile/Kaushik_Manjunatha/" title="Xing Profile"><img width="22" src="https://github.com/kaushikmupadhya/kaushikmupadhya/blob/master/Xing.svg"> Xing</a></code>
+    <a href="https://www.linkedin.com/in/kaushik-manjunatha/" title="LinkedIn Profile"><img width="22" src="./LinkedIn.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/kaushik_upadhya" title="Instagram Profile"><img width="22" src="./Instagram.svg"> Instagram</a></code>
+ <code><a href="https://www.xing.com/profile/Kaushik_Manjunatha/" title="Xing Profile"><img width="22" src="./Xing.svg"> Xing</a></code>
 </h5>
 <br>
 <p align="center">
