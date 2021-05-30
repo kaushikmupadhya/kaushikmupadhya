@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data, Numbers and Coding.
 - 🌱 I’m currently learning: NLP, Deep Learning.
 - 💞️ I’m looking to collaborate on AI, NLP and Data Science projects
-- 📫 How to reach me : Send a DM to [@kaushikmupadhya](https://www.linkedin.com/in/kaushikmupadhya)
+- 📫 How to reach me : Send a DM to [@kaushik-manjunatha](https://www.linkedin.com/in/kaushik-manjunatha/)
 
 <p align=center>
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikmupadhya&show_icons=true&theme=gruvbox">
