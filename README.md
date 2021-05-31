@@ -14,32 +14,32 @@
   Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 <!-- Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app`  -->
-### Connect with me:
-<p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/kaushik-manjunatha/"><img align="center" alt="kaushik-manjuantha | LinkedIn" width="22px" src="./LinkedIn.svg" /></a>&ensp;
 <a href="https://www.instagram.com/kaushik_upadhya"><img align="center" alt="kaushik_upadhya | Instagram" width="22px" src="./Instagram.svg"/></a>&ensp;
 <a href="https://twitter.com/ksk_krish/"><img align="center" alt="ksk_krish | Twitter" width="22px" src="./Twitter.png" /></a>&ensp;
 <a href="https://www.xing.com/profile/Kaushik_Manjunatha/"><img align="center" alt="Kaushik_Manjunatha | Xing" width="22px" src="./XingIcon.png" /></a>&ensp;
 </p>
 
-### Languages and Tools:
-<p>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Jupyter" width="26px" src="./Jupyter.png"/>
-<img align="left" alt="C" width="26px" src="./C_Logo.png" />
-<img align="left" alt="Cpp" width="26px" src="./C++_Logo.png"/>
-<img align="left" alt="Java" width="26px" src="./Java_Logo.png" />
-<img align="left" alt="Python" width="26px" src="./Python.png" />
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&ensp;
+<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&ensp;
+<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&ensp;
+<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&ensp;
+<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />&ensp;
+<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&ensp;
+<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&ensp;
+<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&ensp;
+<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&ensp;
+<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&ensp;
+<img align="center" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />&ensp;
+<img align="center" alt="Jupyter" width="26px" src="./Jupyter.png"/>&ensp;
+<img align="center" alt="C" width="26px" src="./C_Logo.webp" />&ensp;
+<img align="center" alt="Cpp" width="26px" src="./C++_Logo.png"/>&ensp;
+<img align="center" alt="Java" width="26px" src="./Java_Logo.png" />&ensp;
+<img align="center" alt="Python" width="26px" src="./Python.png" />&ensp;
 <br></br>
 </p>
 
