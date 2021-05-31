@@ -1,16 +1,10 @@
 <h3 align="center">Hello there, I'm Kaushik 👋</h3>
-<h5 align="center">
-<a href="https://www.linkedin.com/in/kaushik-manjunatha/"><img align="center" alt="kaushik-manjuantha | LinkedIn" width="22px" src="./LinkedIn.svg" /></a>&ensp;
-<a href="https://www.instagram.com/kaushik_upadhya"><img align="center" alt="kaushik_upadhya | Instagram" width="22px" src="./Instagram.svg"/></a>&ensp;
-<a href="https://twitter.com/ksk_krish/"><img align="center" alt="ksk_krish | Twitter" width="22px" src="./Twitter.png" /></a>&ensp;
-<a href="https://www.xing.com/profile/Kaushik_Manjunatha/"><img align="center" alt="Kaushik_Manjunatha | Xing" width="22px" src="./XingIcon.png" /></a>&ensp;
-</h5>
 <p align="center">
-  <br>Masters student in Germany:de:
-  <br>Former Software Developer in India:india:
+  <br>Masters student in Germany :de:
+  <br>Former Software Developer in India :india:
   <br><br>
-- 👀 I’m interested in Data:floppy_disk:, Numbers:1234: and Coding :computer:.<br>
-- 🌱 I’m currently learning: NLP, Deep Learning.<br>
+- 👀 I’m interested in Data:floppy_disk:, Numbers:1234: and Coding :computer:<br>
+- 🌱 I’m currently learning: NLP, Deep Learning<br>
 - 💞️ I’m looking to collaborate on AI, NLP and Data Science projects<br>
 - 📫 How to reach me : Send a DM to <a href="https://www.linkedin.com/in/kaushik-manjunatha/">@kaushik-manjunatha </a>
 </p>
@@ -20,6 +14,13 @@
   Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 <!-- Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app`  -->
+### Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/kaushik-manjunatha/"><img align="center" alt="kaushik-manjuantha | LinkedIn" width="22px" src="./LinkedIn.svg" /></a>&ensp;
+<a href="https://www.instagram.com/kaushik_upadhya"><img align="center" alt="kaushik_upadhya | Instagram" width="22px" src="./Instagram.svg"/></a>&ensp;
+<a href="https://twitter.com/ksk_krish/"><img align="center" alt="ksk_krish | Twitter" width="22px" src="./Twitter.png" /></a>&ensp;
+<a href="https://www.xing.com/profile/Kaushik_Manjunatha/"><img align="center" alt="Kaushik_Manjunatha | Xing" width="22px" src="./XingIcon.png" /></a>&ensp;
+</p>
 
 ### Languages and Tools:
 <p>
@@ -34,12 +35,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<br>
+<img align="left" alt="Jupyter" width="26px" src="./Jupyter.png"/>
+<img align="left" alt="C" width="26px" src="./C_Logo.png" />
+<img align="left" alt="Cpp" width="26px" src="./C++_Logo.png"/>
+<img align="left" alt="Java" width="26px" src="./Java_Logo.png" />
+<img align="left" alt="Python" width="26px" src="./Python.png" />
+<br></br>
 </p>
 
 
@@ -70,6 +71,12 @@ You can click the Preview link to take a look at your changes.
 
 <!-- TO DO - Work in Progress -->
  <!-- Alternative
+<h5 align="center">
+<a href="https://www.linkedin.com/in/kaushik-manjunatha/"><img align="center" alt="kaushik-manjuantha | LinkedIn" width="22px" src="./LinkedIn.svg" /></a>&ensp;
+<a href="https://www.instagram.com/kaushik_upadhya"><img align="center" alt="kaushik_upadhya | Instagram" width="22px" src="./Instagram.svg"/></a>&ensp;
+<a href="https://twitter.com/ksk_krish/"><img align="center" alt="ksk_krish | Twitter" width="22px" src="./Twitter.png" /></a>&ensp;
+<a href="https://www.xing.com/profile/Kaushik_Manjunatha/"><img align="center" alt="Kaushik_Manjunatha | Xing" width="22px" src="./XingIcon.png" /></a>&ensp;
+</h5>
 <code>
     <a href="https://www.linkedin.com/in/kaushik-manjunatha/" title="LinkedIn Profile"><img width="22" src="./LinkedIn.svg"></a></code>
   <code><a href="https://www.instagram.com/kaushik_upadhya" title="Instagram Profile"><img width="22" src="./Instagram.svg"></a></code>
