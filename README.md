@@ -1,25 +1,22 @@
 <h3 align="center">Hello there, I'm Kaushik 👋</h3>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/kaushik-manjunatha/" title="LinkedIn Profile"><img width="22" src="./LinkedIn.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/kaushik_upadhya" title="Instagram Profile"><img width="22" src="./Instagram.svg"> Instagram</a></code>
- <code><a href="https://www.xing.com/profile/Kaushik_Manjunatha/" title="Xing Profile"><img width="22" src="./XingIcon.png"> Xing</a></code>
-</h5>
-<br>
-<p align="center">
 
+<a href="https://www.linkedin.com/in/kaushik-manjunatha/"><img align="center" alt="kaushik-manjuantha | LinkedIn" width="22px" src="./LinkedIn.svg" /></a>&ensp;
+<a href="https://www.instagram.com/kaushik_upadhya"><img align="center" alt="kaushik_upadhya | Instagram" width="22px" src="./Instagram.svg"/></a>&ensp;
+<a href="https://twitter.com/ksk_krish/"><img align="center" alt="ksk_krish | Twitter" width="22px" src="./Twitter.png" /></a>&ensp;
+<a href="https://www.xing.com/profile/Kaushik_Manjunatha/"><img align="center" alt="Kaushik_Manjunatha | Xing" width="22px" src="./XingIcon.png" /></a>&ensp;
+</h5>
+<br></br>
 <p align="center">
-👋 Hi, I’m Kaushik Manjunatha
   <br>Masters student in Germany:de:
   <br>Former Software Developer in India:india:
   <br><br>
 - 👀 I’m interested in Data:floppy_disk:, Numbers:1234: and Coding :computer:.<br>
 - 🌱 I’m currently learning: NLP, Deep Learning.<br>
 - 💞️ I’m looking to collaborate on AI, NLP and Data Science projects<br>
-- 📫 How to reach me : Send a DM to <a href="https://www.linkedin.com/in/kaushik-manjunatha/">@kaushik-manjunatha</a>
+- 📫 How to reach me : Send a DM to <a href="https://www.linkedin.com/in/kaushik-manjunatha/">@kaushik-manjunatha </a>
 </p>
-    <br>
-</p>
+
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app` 
@@ -70,6 +67,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- TO DO - Work in Progress -->
+ <!-- Alternative
+<code>
+    <a href="https://www.linkedin.com/in/kaushik-manjunatha/" title="LinkedIn Profile"><img width="22" src="./LinkedIn.svg"></a></code>
+  <code><a href="https://www.instagram.com/kaushik_upadhya" title="Instagram Profile"><img width="22" src="./Instagram.svg"></a></code>
+ <code><a href="https://www.xing.com/profile/Kaushik_Manjunatha/" title="Xing Profile"><img width="22" src="./XingIcon.png"></a></code>
+  ### Connect with me:
+-->
 <!--
 <a href="https://github.com/kaushikmupadhya/kaushikmupadhya"> -->
   <!-- Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app`  -->
