@@ -60,7 +60,7 @@
 <br><p align="right">![Visitors](https://komarev.com/ghpvc/?username=kaushikmupadhya&color=blue&label=visitors)<br>
 
 <hr>
-<h4 align="center"><a href=https://github.com/adicadi?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/kaushikmupadhya?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <hr>
 
