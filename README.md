@@ -4,7 +4,7 @@
   <br>Former Software Developer in India :india:
   <br><br>
   - 🌱 I’m currently learning: NLP, Deep Learning<br>
-- 👀 I’m interested in Data:floppy_disk:, Numbers:1234: and Coding :computer:<br>
+- 👀 I’m interested in Data :floppy_disk:, Numbers :1234: and Coding :computer:<br>
 - 💞️ I’m looking to collaborate on AI, NLP and Data Science projects<br>
 - 📫 How to reach me : Send a DM to <a href="https://www.linkedin.com/in/kaushik-manjunatha/">@kaushik-manjunatha </a>
 </p>
