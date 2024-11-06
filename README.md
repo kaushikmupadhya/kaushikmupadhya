@@ -20,6 +20,7 @@
 <a href="https://www.instagram.com/kaushik_upadhya"><img align="center" alt="kaushik_upadhya | Instagram" width="22px" src="./Instagram.svg"/></a>&ensp;
 <a href="https://twitter.com/ksk_krish/"><img align="center" alt="ksk_krish | Twitter" width="22px" src="./Twitter.png" /></a>&ensp;
 <a href="https://www.xing.com/profile/Kaushik_Manjunatha/"><img align="center" alt="Kaushik_Manjunatha | Xing" width="22px" src="./XingIcon.png" /></a>&ensp;
+<a href="https://kaushikmanjunatha.medium.com/"><img align="center" alt="Kaushik Manjunatha | Medium" width="22px" src="./MediumIcon.png" /></a>&ensp;
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
