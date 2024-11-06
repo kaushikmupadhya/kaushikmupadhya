@@ -37,6 +37,18 @@
 - **Projects**: AI4Health contributor, AI audit developer, and NLP projects.
 
 ---
+### 📚 Volunteering & Leadership
+- **Editor/Reviewer @ Springer Nature Group**:
+Peer-reviewing for the Journal of Medical Systems, evaluating research quality and ensuring the integrity of scientific publications.
+
+- **GitHub Field Student Leader/Campus Expert**:
+Organized tech workshops and fostered a collaborative tech community.
+
+- **Microsoft & SAP Student Partner**:
+Supported student communities by sharing industry insights and resources in Microsoft and SAP ecosystems.
+
+
+---
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app` 
