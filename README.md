@@ -11,7 +11,7 @@
 </p>
 --->
 
-<h3>Hello there, I'm Kaushik 👋</h3>
+<h3>Hello there, I'm Kaushik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 <p>
   <strong>Masters Graduate & Researcher in Germany 🇩🇪 | Former Software Developer in India 🇮🇳 </strong><br><br> 
   
