@@ -15,10 +15,10 @@
 <p>
   <strong>Masters Graduate & Researcher in Germany 🇩🇪 | Former Software Developer in India 🇮🇳 </strong><br><br> 
   
-- 🌱 Currently exploring **NLP** and **Deep Learning** to push AI boundaries.<br>
+- 🌱 Currently exploring **LLMs** and **AI Agents** to push AI boundaries.<br>
 - 👀 Passionate about **Data** 📊, **Analytics** 🔢, and **Programming** 💻.<br>
-- 💼 Bringing expertise in **Machine Learning**, **Software Development**, and **AI for Healthcare**.<br>
-- 🤝 Open to collaborating on **AI**, **NLP**, and **Data Science** projects that drive real impact.<br>
+- 💼 Bringing expertise in **Machine Learning**, **Deep Learning**, **Large Language Models**, **Software Development**, and **AI for Healthcare**.<br>
+- 🤝 Open to collaborating on **AI**, **LLM**, and **Data Science** projects that drive real impact.<br>
 - 📫 Let’s connect! Drop a message on <a href="https://www.linkedin.com/in/kaushik-manjunatha/"> @kaushik-manjunatha </a> or explore my projects here.<br>
 </p>
 
