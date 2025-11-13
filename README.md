@@ -25,9 +25,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, Java, SQL, C/C++
-- **Frameworks/Tools**: PyTorch, Django, Docker, AWS
+- **Languages**: Python, Java, SQL, C/C++, Javascript
+- **Frameworks/Tools**: PyTorch, Django, Docker, AWS, Git, Jira, PySpark, FastAPI, React, Kubernetes
 - **Specialties**: Deep Learning, Neural Networks, NLP, Computer Vision, AI Model Validation
+-  **AI/ML Technologies**: GPT-4, Hugging Face Transformers, LangChain, RAG
   
 ---
 
