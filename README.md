@@ -34,7 +34,7 @@
 
 ### 📈 Stats & Highlights
 - **Current Role**: Research Associate - IKIM, advancing AI for healthcare.
-- **Past Experience**: Machine Learning Engineer (Research Associate) @ Fraunhofer HHI,Software Developer @ Hewlett Packard Enterprise, Junior Chair @ ML for Healthcare 2021.
+- **Past Experience**: Machine Learning Engineer (Research Associate) @ Fraunhofer HHI,Research Scientist @ Ruhr Uni Bochum (Mosiac Labs), Software Developer @ Hewlett Packard Enterprise, Junior Chair @ ML for Healthcare 2021.
 - **Projects**: OMI, SHIP.AI, DAKI, AI4Health contributor, AI audit developer, and NLP projects.
 
 ---
