@@ -48,8 +48,8 @@ Organized tech workshops and fostered a collaborative tech community.
 - **Microsoft & SAP Student Partner**:
 Supported student communities by sharing industry insights and resources in Microsoft and SAP ecosystems.
 
-
 ---
+
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.kaushikmupadhya.vercel.app` to `github-readme-stats.vercel.app` 
